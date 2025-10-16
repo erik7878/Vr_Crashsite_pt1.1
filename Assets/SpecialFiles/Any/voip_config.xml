@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BaseVoipConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="VivoxConfigUnity">
+	<voipEnabled>true</voipEnabled>
+	<ClientMode>Client ClientServer Standalone</ClientMode>
+	<ServerMode>None</ServerMode>
+	<AutoConnect>true</AutoConnect>
+	<defaultInputDevice />
+	<defaultOutputDevice />
+	<SessionChannelIs3d>true</SessionChannelIs3d>
+	<volumeInputDevice>1</volumeInputDevice>
+	<volumeOutputDevice>1</volumeOutputDevice>
+	<UpdateFrequencyMillis>0.2</UpdateFrequencyMillis>
+	<server>https://unity.vivox.com/appconfig/90709-test_-36160-udash</server>
+	<domain>mtu1xp.vivox.com</domain>
+	<issuer>90709-test_-36160-udash</issuer>
+	<key>AcyMCchJwCsrk7Zf5ALzkiCnM9EkSv7A</key>
+	<isEnvironmentCustom>false</isEnvironmentCustom>
+	<isTestMode>true</isTestMode>
+	<audibleDistance>32</audibleDistance>
+	<conversationalDistance>1</conversationalDistance>
+	<audioFadeIntensityByDistance>1</audioFadeIntensityByDistance>
+	<audioFadeModel>InverseByDistance</audioFadeModel>
+	<hangover>2000</hangover>
+	<noiseFloor>576</noiseFloor>
+	<sensitivity>43</sensitivity>
+	<auto>true</auto>
+	<updateFrequency>Update05Hz</updateFrequency>
+</BaseVoipConfig>

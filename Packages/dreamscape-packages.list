@@ -1,0 +1,7 @@
+# Minimum packages for Dreamscape Learn:
+com.dreamscape.coresdk
+com.artanim.common
+com.dreamscape.voip
+com.artanim.deformableavatars
+com.dreamscape.haptics
+com.microsoft.mixedreality.openxr
